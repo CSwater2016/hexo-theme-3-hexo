@@ -150,8 +150,7 @@ mathjax:
 
 # 友情链接
 friends:
-  on: false
-#   叶落阁: http://yelog.org/
+  叶落阁: http://yelog.org/
 
 ##########评论设置#############
 comment:
